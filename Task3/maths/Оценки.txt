@@ -1,0 +1,3 @@
+Petrov: 5
+Sidorov: 4
+Ivanov: 4
